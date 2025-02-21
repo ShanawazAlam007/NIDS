@@ -1,0 +1,3061 @@
+Using device: wlan0
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 26 | Moving Avg: 26
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 15 | Moving Avg: 20
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 30 | Moving Avg: 23
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 64 | Moving Avg: 33
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 27
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 22
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 7 | Moving Avg: 20
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 29 | Moving Avg: 21
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 31 | Moving Avg: 22
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 11 | Moving Avg: 21
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 2 | Moving Avg: 19
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 2 | Moving Avg: 17
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 4 | Moving Avg: 15
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 4 | Moving Avg: 9
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 20 | Moving Avg: 11
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 11
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 2 | Moving Avg: 10
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 2 | Moving Avg: 7
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 4
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3 | Moving Avg: 4
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 4
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 3
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 3
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 3
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 1
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 2 | Moving Avg: 1
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 34 | Moving Avg: 4
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 34 exceeds 2x moving average (4)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 14 | Moving Avg: 5
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 14 exceeds 2x moving average (5)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 21 | Moving Avg: 7
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 21 exceeds 2x moving average (7)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 49 | Moving Avg: 12
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 49 exceeds 2x moving average (12)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 37 | Moving Avg: 16
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 37 exceeds 2x moving average (16)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 24 | Moving Avg: 18
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 80 | Moving Avg: 26
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 80 exceeds 2x moving average (26)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 33 | Moving Avg: 29
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 30 | Moving Avg: 32
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 34 | Moving Avg: 35
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 32 | Moving Avg: 35
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 15 | Moving Avg: 35
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 23 | Moving Avg: 35
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 46 | Moving Avg: 35
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 53 | Moving Avg: 37
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 118 | Moving Avg: 46
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 118 exceeds 2x moving average (46)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 139 | Moving Avg: 52
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 139 exceeds 2x moving average (52)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 143 | Moving Avg: 63
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 143 exceeds 2x moving average (63)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 7 | Moving Avg: 61
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 22 | Moving Avg: 59
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 16 | Moving Avg: 58
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 56
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 16 | Moving Avg: 56
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 15 | Moving Avg: 53
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 4 | Moving Avg: 48
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 26 | Moving Avg: 38
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 9 | Moving Avg: 25
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 12 | Moving Avg: 12
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 19 | Moving Avg: 14
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 37 | Moving Avg: 15
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 37 exceeds 2x moving average (15)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 5 | Moving Avg: 14
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 7 | Moving Avg: 15
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 6 | Moving Avg: 14
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 7 | Moving Avg: 13
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 14 | Moving Avg: 14
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3 | Moving Avg: 11
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 6 | Moving Avg: 11
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 31 | Moving Avg: 13
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 31 exceeds 2x moving average (13)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 16 | Moving Avg: 13
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 2 | Moving Avg: 9
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 9
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 33 | Moving Avg: 11
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 33 exceeds 2x moving average (11)
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 16 | Moving Avg: 12
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 5 | Moving Avg: 12
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 27 | Moving Avg: 14
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 27 | Moving Avg: 16
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 15
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 5 | Moving Avg: 13
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 7 | Moving Avg: 12
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 19 | Moving Avg: 14
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 31 | Moving Avg: 17
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 4 | Moving Avg: 14
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 2 | Moving Avg: 12
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 5 | Moving Avg: 12
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 4 | Moving Avg: 10
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 9 | Moving Avg: 8
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 8
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 8
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 6 | Moving Avg: 8
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 19 | Moving Avg: 8
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 19 exceeds 2x moving average (8)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 2 | Moving Avg: 5
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 4 | Moving Avg: 5
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 10 | Moving Avg: 6
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 9 | Moving Avg: 6
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 4 | Moving Avg: 6
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 12 | Moving Avg: 6
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 16 | Moving Avg: 8
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 9 | Moving Avg: 9
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 8
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 4 | Moving Avg: 7
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 10 | Moving Avg: 7
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 8 | Moving Avg: 8
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 7
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 17 | Moving Avg: 8
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 17 exceeds 2x moving average (8)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 8 | Moving Avg: 8
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 7
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 6
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 5
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 5
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 4
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 14 | Moving Avg: 5
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 14 exceeds 2x moving average (5)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 4 | Moving Avg: 4
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 4
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 15 | Moving Avg: 4
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 15 exceeds 2x moving average (4)
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 7 | Moving Avg: 4
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 4
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1770 | Moving Avg: 181
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 1770 exceeds 2x moving average (181)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3535 | Moving Avg: 534
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 3535 exceeds 2x moving average (534)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 7081 | Moving Avg: 1242
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 7081 exceeds 2x moving average (1242)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 4746 | Moving Avg: 1717
+
+[ALERT] Anomaly detected for IP: 172.20.10.2 | Traffic: 4753 exceeds 2x moving average (1717)
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 4088 | Moving Avg: 2124
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 5305 | Moving Avg: 2654
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 5308 | Moving Avg: 3185
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3531 | Moving Avg: 3536
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 5279 | Moving Avg: 4064
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3532 | Moving Avg: 4417
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3540 | Moving Avg: 4594
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 5300 | Moving Avg: 4770
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3540 | Moving Avg: 4416
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3536 | Moving Avg: 4295
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3541 | Moving Avg: 4241
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3538 | Moving Avg: 4064
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3539 | Moving Avg: 3887
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 5303 | Moving Avg: 4064
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3525 | Moving Avg: 3889
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3537 | Moving Avg: 3889
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3537 | Moving Avg: 3889
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3535 | Moving Avg: 3713
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3540 | Moving Avg: 3713
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3541 | Moving Avg: 3713
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3534 | Moving Avg: 3712
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3538 | Moving Avg: 3712
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3536 | Moving Avg: 3712
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3538 | Moving Avg: 3536
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3526 | Moving Avg: 3536
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3540 | Moving Avg: 3536
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3538 | Moving Avg: 3536
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3533 | Moving Avg: 3536
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 3538 | Moving Avg: 3536
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1770 | Moving Avg: 3359
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1421 | Moving Avg: 3147
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 204 | Moving Avg: 2814
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 2460
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 2107
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 1 | Moving Avg: 1754
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 2 | Moving Avg: 1400
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 2 | Moving Avg: 1047
+
+--- Traffic Statistics ---
+IP: 172.20.10.2 | Packets: 2 | Moving Avg: 694
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
+
+--- Traffic Statistics ---
