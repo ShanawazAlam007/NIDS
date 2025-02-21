@@ -14,24 +14,23 @@
 using namespace std;
 
 // Global variables
-map<string, int> packetCount; // Track packets per IP
-int threshold = 100; // Example anomaly threshold (packets per second)
-string targetIP; // IP address to monitor
-vector<int> timePoints; // Time points for graphing
-vector<int> packetCounts; // Packet counts for graphing
-ofstream logFile("nids_log.txt"); // Log file
+map<string, int> packetCount; 
+int threshold = 100; 
+string targetIP; 
+vector<int> timePoints; 
+vector<int> packetCounts; 
+ofstream logFile("nids_log.txt"); 
 
-// Callback function for packet processing
+
 void packetHandler(u_char *args, const struct pcap_pkthdr *header, const u_char *packet) {
-    // Extract IP addresses (assuming Ethernet + IPv4)
-    const int ipHeaderOffset = 14; // Ethernet header size
+    
+    const int ipHeaderOffset = 14; 
     const u_char *ipHeader = packet + ipHeaderOffset;
 
     char srcIP[16], dstIP[16];
     snprintf(srcIP, sizeof(srcIP), "%u.%u.%u.%u", ipHeader[12], ipHeader[13], ipHeader[14], ipHeader[15]);
     snprintf(dstIP, sizeof(dstIP), "%u.%u.%u.%u", ipHeader[16], ipHeader[17], ipHeader[18], ipHeader[19]);
 
-    // Check if the packet is related to the target IP
     if (targetIP == srcIP || targetIP == dstIP) {
         // Check if this is an ICMP packet (Ping)
         if (packet[23] == 1) {  // ICMP protocol
@@ -45,15 +44,15 @@ void packetHandler(u_char *args, const struct pcap_pkthdr *header, const u_char 
             return;  // Ignore ping packets to prevent flooding detection
         }
 
-        // Check if this is a UDP packet
+
         if (packet[23] == 17) {  // UDP protocol is 17
             cout << "Ignoring UDP packet from " << srcIP << endl;
             logFile << "Ignoring UDP packet from " << srcIP << endl;
             return;  // Ignore UDP packets to prevent flood detection
         }
 
-        // Check if this is a TCP SYN packet (SYN Flood)
-        if (packet[23] == 6) {  // TCP protocol is 6
+
+        if (packet[23] == 6) {  
             if (packet[47] == 0x02) {  // SYN flag (0x02)
                 cout << "Potential TCP SYN Flood detected from " << srcIP << endl;
                 logFile << "Potential TCP SYN Flood detected from " << srcIP << endl;
