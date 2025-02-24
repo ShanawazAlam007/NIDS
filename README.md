@@ -39,7 +39,7 @@ cd NIDS
 
 3. Compile the program:
 ```bash
-g++ -o nids Intru.cpp -lpcap -pthread
+g++ Intru.cpp -o nids  -lpcap -pthread
 ```
 
 ## Usage
