@@ -20,6 +20,8 @@ A basic network intrusion detection system implemented in C++ that monitors netw
 - libpcap library
 - G++ compiler
 - Root/sudo privileges
+- Basic Knowledge of Networking
+- Advance Knowledge of C/C++
 
 ## Installation
 
