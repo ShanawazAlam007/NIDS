@@ -75,7 +75,7 @@ void monitorTraffic() {
     int timeElapsed = 0; // Track time
 
     while (true) {
-        this_thread::sleep_for(chrono::seconds(1)); // Check every second
+        this_thread::sleep_for(chrono::seconds(1)); 
 
         int totalPackets = 0;
         cout << "--- Traffic Statistics ---\n";
