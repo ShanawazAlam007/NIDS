@@ -64,7 +64,7 @@ void packetHandler(u_char *args, const struct pcap_pkthdr *header, const u_char 
                 logFile << "[ALERT] Random Port Connection Flood detected from " << srcIP << endl;
             }
         }
-        
+
         
         packetCount[targetIP]++;
     }
@@ -138,4 +138,3 @@ int main() {
     logFile.close();
     return 0;
 }
-
