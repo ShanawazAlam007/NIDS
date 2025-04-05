@@ -1,0 +1,135 @@
+Using device: wlan0
+--- Traffic Statistics ---
+--- Traffic Statistics ---
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+--- Traffic Statistics ---
+IP: 192.168.137.107 | Packets: 1
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+Ignoring UDP packet from 192.168.137.1
+Ignoring UDP packet from 192.168.137.1
+Ignoring ICMP Echo Request from 192.168.137.107
+Ignoring ICMP Echo Request from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+--- Traffic Statistics ---
+IP: 192.168.137.107 | Packets: 7
+--- Traffic Statistics ---
+Ignoring UDP packet from 192.168.137.1
+Ignoring UDP packet from 192.168.137.1
+Ignoring ICMP Echo Request from 192.168.137.107
+Ignoring ICMP Echo Request from 192.168.137.107
+--- Traffic Statistics ---
+--- Traffic Statistics ---
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 142.251.220.106
+--- Traffic Statistics ---
+IP: 192.168.137.107 | Packets: 2
+--- Traffic Statistics ---
+--- Traffic Statistics ---
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 142.251.220.106
+--- Traffic Statistics ---
+IP: 192.168.137.107 | Packets: 2
+--- Traffic Statistics ---
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+--- Traffic Statistics ---
+IP: 192.168.137.107 | Packets: 2
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+--- Traffic Statistics ---
+IP: 192.168.137.107 | Packets: 6
+--- Traffic Statistics ---
+--- Traffic Statistics ---
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 172.64.155.209
+--- Traffic Statistics ---
+IP: 192.168.137.107 | Packets: 2
+Ignoring UDP packet from 192.168.137.107
+--- Traffic Statistics ---
+Ignoring UDP packet from 192.168.137.107
+--- Traffic Statistics ---
+Ignoring UDP packet from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 142.251.220.106
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 142.251.220.106
+[ALERT] Random Port Connection Flood detected from 142.251.220.106
+--- Traffic Statistics ---
+IP: 192.168.137.107 | Packets: 5
+Ignoring UDP packet from 192.168.137.107
+--- Traffic Statistics ---
+--- Traffic Statistics ---
+Ignoring UDP packet from 192.168.137.107
+Ignoring UDP packet from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 44.233.178.197
+[ALERT] Random Port Connection Flood detected from 44.233.178.197
+[ALERT] Random Port Connection Flood detected from 44.233.178.197
+[ALERT] Random Port Connection Flood detected from 44.233.178.197
+[ALERT] Random Port Connection Flood detected from 44.233.178.197
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+--- Traffic Statistics ---
+IP: 192.168.137.107 | Packets: 16
+[ALERT] Random Port Connection Flood detected from 44.233.178.197
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+Ignoring UDP packet from 192.168.137.107
+Ignoring UDP packet from 192.168.137.107
+Ignoring UDP packet from 192.168.137.1
+Ignoring UDP packet from 192.168.137.1
+--- Traffic Statistics ---
+IP: 192.168.137.107 | Packets: 2
+--- Traffic Statistics ---
+Ignoring UDP packet from 192.168.137.107
+--- Traffic Statistics ---
+Potential TCP SYN Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+Potential TCP SYN Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+--- Traffic Statistics ---
+IP: 192.168.137.107 | Packets: 2
+--- Traffic Statistics ---
+--- Traffic Statistics ---
+--- Traffic Statistics ---
+Ignoring UDP packet from 192.168.137.107
+--- Traffic Statistics ---
+Ignoring UDP packet from 192.168.137.107
+--- Traffic Statistics ---
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 192.168.137.107
+[ALERT] Random Port Connection Flood detected from 104.26.7.95
+--- Traffic Statistics ---
+IP: 192.168.137.107 | Packets: 8
+Ignoring UDP packet from 192.168.137.1
+Ignoring UDP packet from 192.168.137.1
+Ignoring UDP packet from 192.168.137.1
+Ignoring UDP packet from 192.168.137.1
+Ignoring UDP packet from 192.168.137.1
+Ignoring ICMP Echo Request from 192.168.137.107
+Ignoring ICMP Echo Request from 192.168.137.107
+Ignoring UDP packet from 192.168.137.107
+Ignoring UDP packet from 192.168.137.107
+Ignoring UDP packet from 192.168.137.1
+Ignoring UDP packet from 192.168.137.1

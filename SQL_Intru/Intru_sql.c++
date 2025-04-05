@@ -10,14 +10,15 @@
 #include <netinet/tcp.h>
 #include <netinet/udp.h>
 #include <netinet/ip_icmp.h>
+#include <arpa/inet.h>
 #include <fstream>
 
 using namespace std;
 
 // Global variables
 map<string, int> packetCount;
-map<string, pair<int, string>> attackSignatures; // Store known attacks with threshold from DB
-int baseTrafficRate = 20; // Base traffic rate, dynamically adjusted
+map<string, pair<int, string>> attackSignatures; // {protocol -> {threshold, signature}}
+int baseTrafficRate = 20; // Base traffic rate (packets per timeWindow)
 int timeWindow = 5; // Time window in seconds for sustained attack check
 string targetIP;
 sqlite3 *db;
@@ -30,17 +31,17 @@ bool checkDatabaseConnection() {
         cerr << "Error opening database: " << sqlite3_errmsg(db) << endl;
         return false;
     }
-    cout << "Database connected successfully." << endl;
+    cout << "[INFO] Database connected successfully." << endl;
     return true;
 }
 
-// Function to fetch attack signatures and thresholds from SQLite3
+// Function to fetch attack signatures from SQLite3
 void loadAttackSignatures() {
     string sql = "SELECT protocol, signature, threshold FROM attack_sig;";
     sqlite3_stmt *stmt;
 
     if (sqlite3_prepare_v2(db, sql.c_str(), -1, &stmt, nullptr) != SQLITE_OK) {
-        cerr << "Error fetching attack signatures: " << sqlite3_errmsg(db) << endl;
+        cerr << "[ERROR] Failed to fetch attack signatures: " << sqlite3_errmsg(db) << endl;
         return;
     }
 
@@ -56,12 +57,12 @@ void loadAttackSignatures() {
 
 // Packet handler function
 void packetHandler(u_char *args, const struct pcap_pkthdr *header, const u_char *packet) {
-    const int ipHeaderOffset = 14;
-    const u_char *ipHeader = packet + ipHeaderOffset;
+    const int ipHeaderOffset = 14; // Ethernet header is 14 bytes
+    const struct ip *ipHeader = (struct ip *)(packet + ipHeaderOffset);
 
-    char srcIP[16], dstIP[16];
-    snprintf(srcIP, sizeof(srcIP), "%u.%u.%u.%u", ipHeader[12], ipHeader[13], ipHeader[14], ipHeader[15]);
-    snprintf(dstIP, sizeof(dstIP), "%u.%u.%u.%u", ipHeader[16], ipHeader[17], ipHeader[18], ipHeader[19]);
+    char srcIP[INET_ADDRSTRLEN], dstIP[INET_ADDRSTRLEN];
+    inet_ntop(AF_INET, &(ipHeader->ip_src), srcIP, INET_ADDRSTRLEN);
+    inet_ntop(AF_INET, &(ipHeader->ip_dst), dstIP, INET_ADDRSTRLEN);
 
     // Monitor only the target IP
     if (targetIP != srcIP && targetIP != dstIP) {
@@ -72,21 +73,29 @@ void packetHandler(u_char *args, const struct pcap_pkthdr *header, const u_char 
     string detectedSignature = "Unknown";
     int threshold = baseTrafficRate;
 
-    if (packet[23] == 1) {
+    // Determine protocol type
+    if (ipHeader->ip_p == IPPROTO_ICMP) {
         protocol = "ICMP";
-    } else if (packet[23] == 17) {
+    } else if (ipHeader->ip_p == IPPROTO_UDP) {
         protocol = "UDP";
-    } else if (packet[23] == 6) {
+    } else if (ipHeader->ip_p == IPPROTO_TCP) {
         protocol = "TCP";
     }
 
+    // Fetch attack signature if it exists
     if (attackSignatures.find(protocol) != attackSignatures.end()) {
         threshold = attackSignatures[protocol].first;
         detectedSignature = attackSignatures[protocol].second;
     }
 
     packetCount[srcIP]++;
-    
+
+    // Log all ICMP packets for debugging
+    if (protocol == "ICMP") {
+        cout << "[INFO] ICMP packet detected from " << srcIP << " -> " << dstIP << " | Count: " << packetCount[srcIP] << endl;
+    }
+
+    // Detect attack
     if (packetCount[srcIP] > threshold) {
         attackDetected = true;
         cout << "[ALERT] " << detectedSignature << " detected from " << srcIP << " | Packets: " << packetCount[srcIP] << endl;
@@ -98,16 +107,18 @@ void packetHandler(u_char *args, const struct pcap_pkthdr *header, const u_char 
 void monitorTraffic() {
     while (true) {
         this_thread::sleep_for(chrono::seconds(timeWindow));
-        
+
         if (packetCount[targetIP] > baseTrafficRate * 1.5) { // Dynamic threshold check
             attackDetected = true;
             cout << "[ALERT] Potential attack detected for IP: " << targetIP << " | Packets: " << packetCount[targetIP] << "\n";
             logFile << "[ALERT] Potential attack detected for IP: " << targetIP << " | Packets: " << packetCount[targetIP] << "\n";
         } else if (attackDetected) {
             attackDetected = false;
-            cout << "Network traffic is normal." << endl;
-            logFile << "Network traffic is normal." << endl;
+            cout << "[INFO] Network traffic is normal." << endl;
+            logFile << "[INFO] Network traffic is normal." << endl;
         }
+
+        cout << "[INFO] Monitoring... Network is normal.\n";
         packetCount.clear(); // Reset count periodically
     }
 }
@@ -139,7 +150,7 @@ int main() {
         cerr << "No valid network device found." << endl;
         return 1;
     }
-    cout << "Using device: " << dev << endl;
+    cout << "[INFO] Using device: " << dev << endl;
 
     pcap_t *handle = pcap_open_live(dev, BUFSIZ, 1, 1000, errbuf);
     if (!handle) {
@@ -162,3 +173,4 @@ int main() {
     logFile.close();
     return 0;
 }
+
